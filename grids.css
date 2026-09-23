@@ -12,6 +12,7 @@
 .row {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
+  align-items: start;
 }
 
 .col-1 {
